@@ -29,6 +29,14 @@ const Component = styled(Box)({
   },
 });
 
+const Footer = styled(Box)({
+  marginTop: "auto", // Push footer to bottom of the page
+  padding: "20px 0",
+  textAlign: "center",
+  backgroundColor: "#f0f0f0", // Add background color for footer
+  width: "100%",
+});
+
 const Home = () => {
   const navigate = useNavigate();
 
@@ -57,6 +65,12 @@ const Home = () => {
         <Box>
           <img src={animatedImage} alt="homeimage" style={{ width: 600 }} />
         </Box>
+        <Footer>
+          <Typography variant="body2" color="textSecondary">
+            &copy; {new Date().getFullYear()} Vishal's getHired.com . All rights
+            reserved.
+          </Typography>
+        </Footer>
       </Component>
     </>
   );
