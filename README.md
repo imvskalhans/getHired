@@ -63,7 +63,6 @@ To run the project locally, follow these steps:
 
 ## Screenshots
 
-[Insert screenshots here]
 ![Screenshot (3)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(3).png)
 ![Screenshot (4)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(4).png)
 ![Screenshot (5)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(5).png)
