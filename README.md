@@ -61,15 +61,17 @@ To run the project locally, follow these steps:
    
 6. **Access the application at `http://localhost:3000` in your web browser.**
 
-## Screenshots
+## Preview Screenshots
 
-![Screenshot (3)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(3).png)
-![Screenshot (4)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(4).png)
-![Screenshot (5)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(5).png)
-![Screenshot (6)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(6).png)
-![Screenshot (7)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(7).png)
-![Screenshot (8)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(8).png)
-![Screenshot (9)](file:///C:/Users/Vishal/OneDrive%20-%20BBDU/Pictures/Screenshots/Screenshot%20(9).png)
+![Screenshot](https://i.imgur.com/soGnKWz.png)
+![Screenshot 1](https://i.imgur.com/SI2RVPX.png)
+![Screenshot 2](https://i.imgur.com/koZyyag.png)
+![Screenshot 3](https://i.imgur.com/BPX4APG.png)
+![Screenshot 4](https://i.imgur.com/Z0Fpqru.png)
+![Screenshot 5](https://i.imgur.com/Lv1qmgK.png)
+![Screenshot 6](https://i.imgur.com/b0cYxA7.png)
+
+
 
 
 ## Contributing
